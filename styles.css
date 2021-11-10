@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+}
+#alaotsikko {
+    border-style: solid;
+}
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+.ylänavi {
+    background-color: #333;
+    overflow: hidden;
+}
+.ylänavi a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;    
+}
+.ylänavi a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+.leipäteksti {
+    display: inline-block;
+}
+.para {
+    border-radius: 25px;
+    background-color: chocolate;
+    text-align: center;
+}
